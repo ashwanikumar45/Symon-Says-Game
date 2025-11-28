@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+
+.btn-container{
+    display: flex;
+    align-items: center;
+    align-content: center;
+   margin-left: 30%;
+}
+
+.btn{
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;
+    margin: 1rem;
+}
+
+.red{
+    background-color: #b14a4a;
+}
+.green{
+    background-color: #3f973f;
+}
+.yellow{
+    background-color: #c9c95d;
+}
+
+.voilet{
+    background-color: #b97eb9;
+}
+
+.flash{
+    background-color: white;
+}
+
+@media (max-width:650px){
+    
+}
